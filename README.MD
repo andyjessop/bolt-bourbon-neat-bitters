@@ -1,9 +1,8 @@
 # Bolt Starter theme with bourbon and neat
-=====
+
 This is a starter theme based on HTML5Boilerplate v4.3.0, with sass libraries bourbon and neat. A clean and solid base for your bolt theme.
 
 ## Setting-up
-=====
 
 ### Set-up gulp:
 Gulp is used to compile the scss
