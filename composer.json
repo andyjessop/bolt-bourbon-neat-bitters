@@ -1,0 +1,16 @@
+{
+    "name": "babaggeii/bolt-bourbon-neat-bitters",
+    "description": "A clean starter theme for bolt based on HTML5Boilerplate v4.3.0, with sass libraries bourbon, neat, and bitters.",
+    "type": "bolt-theme",
+    "keywords": ["theme", "sass", "starter", "bourbon", "neat", "bitters"],
+    "require": {
+        "bolt/bolt": ">=2.0.0,<3.0.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andy Jessop",
+            "email": "andyjessop.olp@gmail.com"
+        }
+    ]
+}
