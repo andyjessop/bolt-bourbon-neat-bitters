@@ -30,6 +30,7 @@ Gulp is used to compile the scss
 
 Gulp should now be installed and hooked-up correctly within `gulpfile.js`. You can test it by putting something in `scss/app.scss` and compiling it with:
 
+	`$ cd ..`
 	`$ gulp sass`
 
 If everything's hooked-up then this change should be relfected in the `css/app.css` file.
