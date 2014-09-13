@@ -1,6 +1,6 @@
-# Bolt Starter theme with bourbon and neat
+# Bolt Starter theme with bourbon, neat, and bitters
 
-This is a starter theme based on HTML5Boilerplate v4.3.0, with sass libraries bourbon and neat. A clean and solid base for your bolt theme.
+This is a starter theme based on HTML5Boilerplate v4.3.0, with sass libraries bourbon, neat, and bitters. A clean and solid base for your bolt theme.
 
 ## Setting-up
 
@@ -20,11 +20,13 @@ Gulp is used to compile the scss
 #### Install gems if not already installed:
 	`$ gem install bourbon`
 	`$ gem install neat`
+	`$ gem install bitters`
 
 #### Install bourbon and neat into scss directory:
 	`$ cd scss`
 	`$ bourbon install`
 	`$ neat install`
+	`$ bitters install`
 
 =====
 
