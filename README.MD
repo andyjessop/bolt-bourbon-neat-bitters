@@ -13,6 +13,8 @@ Gulp is used to compile the scss
 	`$ npm install gulp --save-dev`
 	`$ npm install gulp-ruby-sass --dave-dev`
 
+=====
+
 ### Install bourbon and neat in scss directory:
 
 #### Install gems if not already installed:
@@ -23,6 +25,8 @@ Gulp is used to compile the scss
 	`$ cd scss`
 	`$ bourbon install`
 	`$ neat install`
+
+=====
 
 Gulp should now be installed and hooked-up correctly within `gulpfile.js`. You can test it by putting something in `scss/app.scss` and compiling it with:
 
